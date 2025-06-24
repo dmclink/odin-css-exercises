@@ -1,0 +1,23 @@
+body {
+}
+
+.pink-bg {
+  background-color: rgb(255, 180, 180);
+  font-size: 20px;
+  font-family: 'Verdana', 'DejaVu Sans', sans-serif;
+}
+
+#d1 {
+  color: rgb(0, 0, 255);
+  font-size: 36px;
+}
+
+.font-lg {
+  font-size: 24px;
+}
+
+#d2 {
+  background-color: rgb(130, 255, 130);
+  font-weight: bold;
+  font-size: 24px;
+}
